@@ -1,3 +1,89 @@
-.liste>li {
-    list-style: none;
-}
+body {
+
+    color: rgb(167, 167, 167);
+
+    background-color: rgb(14, 49, 82);
+
+    font-family: Lato, Arial;
+
+    text-align: center;
+
+  }
+
+  
+
+  p {
+
+    font-size:14pt;
+
+  }
+
+  
+
+  li {
+
+    padding-bottom: 5px;
+
+    text-align: center;
+
+    font-size:10pt;
+
+  }
+
+  
+
+  h1 {
+
+    color: aqua;
+
+  }
+
+  
+
+  h2 {
+
+    padding-top: 50px;
+
+  }
+
+  
+
+  del {
+
+      color: red;
+
+      border-width: 2px;
+
+  }
+
+  
+
+  div {
+
+      padding: 5px;
+
+      margin-top: 50px;
+
+      color: beige;
+
+      text-align: center;
+
+      border-width: 8px;
+
+      border-color: rgb(42, 204, 69);
+
+      border-style: dotted;
+
+      margin-right: calc(50% - 200px);
+
+      margin-left: calc(50% - 200px);
+
+  }
+
+  
+
+  a {
+
+      color: deepskyblue;
+
+  }
